@@ -1,4 +1,4 @@
-package com.curiousca.recyclerviewpractice;
+package com.curiousca.recyclerviewpractice.DataClasses;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.curiousca.recyclerviewpractice.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;

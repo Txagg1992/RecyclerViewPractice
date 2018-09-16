@@ -1,4 +1,4 @@
-package com.curiousca.recyclerviewpractice;
+package com.curiousca.recyclerviewpractice.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,6 +11,9 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
+import com.curiousca.recyclerviewpractice.DataClasses.ExampleAdapter;
+import com.curiousca.recyclerviewpractice.DataClasses.ExampleItem;
+import com.curiousca.recyclerviewpractice.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package com.curiousca.recyclerviewpractice;
+package com.curiousca.recyclerviewpractice.DataClasses;
 
 public class ExampleItem {
 
