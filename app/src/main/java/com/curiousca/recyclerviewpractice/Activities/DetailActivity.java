@@ -32,5 +32,6 @@ public class DetailActivity extends AppCompatActivity {
         Picasso.get().load(imageUrl).fit().centerInside().into(imageView);
         textViewCreator.setText(creatorName);
         textViewLikes.setText("Likes: " + likeCount);
+
     }
 }
