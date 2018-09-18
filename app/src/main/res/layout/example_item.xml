@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:text="Creator Name:"
             android:textSize="20sp"
-            android:textColor="#000"/>
+            android:textColor="@color/colorPrimaryDark"/>
         <TextView
             android:id="@+id/text_view_likes"
             android:layout_width="wrap_content"
